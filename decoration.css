@@ -1,0 +1,14 @@
+.decoration1{
+    width: 20%;
+    height: 30rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.decoration2{
+    width: 20%;
+    height: 30rem;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
